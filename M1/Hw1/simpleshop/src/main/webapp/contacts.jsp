@@ -6,7 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
-
+<body>There is our contacts!
+phone: +380997795833 
+email: Maksym_Pinchuk@epam.com
 </body>
 </html>
