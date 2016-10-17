@@ -18,7 +18,8 @@ public class MainServlet extends HttpServlet
      */
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
     {
-        response.getWriter().append("Served at: ").append(request.getContextPath());
+        int price = (int) (Math.random() * 10000);
+        response.getWriter().append("Your price is: " + price);
     }
 
     /**
